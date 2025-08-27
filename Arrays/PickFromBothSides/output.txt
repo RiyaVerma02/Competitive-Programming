@@ -1,0 +1,11 @@
+l:0,r:3,sum_l:0,sum_r:6
+l:1,r:2,sum_l:5,sum_r:3
+l:2,r:1,sum_l:3,sum_r:2
+l:3,r:0,sum_l:6,sum_r:0
+8
+l:0,r:4,sum_l:0,sum_r:6
+l:1,r:3,sum_l:2,sum_r:7
+l:2,r:2,sum_l:5,sum_r:3
+l:3,r:1,sum_l:4,sum_r:1
+l:4,r:0,sum_l:8,sum_r:0
+9
